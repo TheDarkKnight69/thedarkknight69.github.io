@@ -57,9 +57,9 @@
 }
 
 .logo {
-  border-radius: 45%;
-  width: 30px;
-  height: 28px;
+  border-radius: 54%;
+  width: auto;
+  height: 32px;
   padding: 10px;
 }
 
