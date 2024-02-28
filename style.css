@@ -1543,3 +1543,23 @@
   max-width: 100%;
   max-height: 100%;
 }
+
+.footer {
+  background-color: #333;
+  padding: 15px;
+  max-width: 100%;
+  display: grid;
+  /* Consider adjusting for responsiveness */
+  color: white;
+}
+
+.footer a {
+  color: white;
+  margin-right: 10px;
+  /* Add spacing between links to prevent overlapping */
+}
+
+.container-mk2 {
+  max-width: 100%;
+  max-height: 750px;
+}
