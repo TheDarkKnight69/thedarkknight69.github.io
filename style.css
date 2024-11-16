@@ -37,6 +37,10 @@
   color: #ccc;
   /* Change link color on hover */
 }
+a:hover {
+  color: #ff79c6;
+  text-decoration: underline;
+}
 
 .home-tag {
   display: flex;
